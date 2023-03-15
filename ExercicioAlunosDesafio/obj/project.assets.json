@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LAB4\\Desktop\\ExercicioAlunosDesafio\\ExercicioAlunos.csproj",
+      "projectUniqueName": "C:\\Users\\LAB4\\Desktop\\SW-I-c-sharp\\ExercicioAlunosDesafio\\ExercicioAlunos.csproj",
       "projectName": "ExercicioAlunos",
-      "projectPath": "C:\\Users\\LAB4\\Desktop\\ExercicioAlunosDesafio\\ExercicioAlunos.csproj",
+      "projectPath": "C:\\Users\\LAB4\\Desktop\\SW-I-c-sharp\\ExercicioAlunosDesafio\\ExercicioAlunos.csproj",
       "packagesPath": "C:\\Users\\LAB4\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LAB4\\Desktop\\ExercicioAlunosDesafio\\obj\\",
+      "outputPath": "C:\\Users\\LAB4\\Desktop\\SW-I-c-sharp\\ExercicioAlunosDesafio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
