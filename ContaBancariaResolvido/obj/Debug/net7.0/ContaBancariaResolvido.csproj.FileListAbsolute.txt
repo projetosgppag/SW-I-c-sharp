@@ -1,0 +1,15 @@
+C:\Users\bit3ll4\Desktop\projetos\.cs\SW\ContaBancariaResolvido\bin\Debug\net7.0\ContaBancariaResolvido.exe
+C:\Users\bit3ll4\Desktop\projetos\.cs\SW\ContaBancariaResolvido\bin\Debug\net7.0\ContaBancariaResolvido.deps.json
+C:\Users\bit3ll4\Desktop\projetos\.cs\SW\ContaBancariaResolvido\bin\Debug\net7.0\ContaBancariaResolvido.runtimeconfig.json
+C:\Users\bit3ll4\Desktop\projetos\.cs\SW\ContaBancariaResolvido\bin\Debug\net7.0\ContaBancariaResolvido.dll
+C:\Users\bit3ll4\Desktop\projetos\.cs\SW\ContaBancariaResolvido\bin\Debug\net7.0\ContaBancariaResolvido.pdb
+C:\Users\bit3ll4\Desktop\projetos\.cs\SW\ContaBancariaResolvido\obj\Debug\net7.0\ContaBancariaResolvido.csproj.AssemblyReference.cache
+C:\Users\bit3ll4\Desktop\projetos\.cs\SW\ContaBancariaResolvido\obj\Debug\net7.0\ContaBancariaResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bit3ll4\Desktop\projetos\.cs\SW\ContaBancariaResolvido\obj\Debug\net7.0\ContaBancariaResolvido.AssemblyInfoInputs.cache
+C:\Users\bit3ll4\Desktop\projetos\.cs\SW\ContaBancariaResolvido\obj\Debug\net7.0\ContaBancariaResolvido.AssemblyInfo.cs
+C:\Users\bit3ll4\Desktop\projetos\.cs\SW\ContaBancariaResolvido\obj\Debug\net7.0\ContaBancariaResolvido.csproj.CoreCompileInputs.cache
+C:\Users\bit3ll4\Desktop\projetos\.cs\SW\ContaBancariaResolvido\obj\Debug\net7.0\ContaBancariaResolvido.dll
+C:\Users\bit3ll4\Desktop\projetos\.cs\SW\ContaBancariaResolvido\obj\Debug\net7.0\refint\ContaBancariaResolvido.dll
+C:\Users\bit3ll4\Desktop\projetos\.cs\SW\ContaBancariaResolvido\obj\Debug\net7.0\ContaBancariaResolvido.pdb
+C:\Users\bit3ll4\Desktop\projetos\.cs\SW\ContaBancariaResolvido\obj\Debug\net7.0\ContaBancariaResolvido.genruntimeconfig.cache
+C:\Users\bit3ll4\Desktop\projetos\.cs\SW\ContaBancariaResolvido\obj\Debug\net7.0\ref\ContaBancariaResolvido.dll
