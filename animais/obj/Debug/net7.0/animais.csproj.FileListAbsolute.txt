@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\animais\bin\Debug\net7.0\animais.exe
+C:\Users\LAB4\Desktop\animais\bin\Debug\net7.0\animais.deps.json
+C:\Users\LAB4\Desktop\animais\bin\Debug\net7.0\animais.runtimeconfig.json
+C:\Users\LAB4\Desktop\animais\bin\Debug\net7.0\animais.dll
+C:\Users\LAB4\Desktop\animais\bin\Debug\net7.0\animais.pdb
+C:\Users\LAB4\Desktop\animais\obj\Debug\net7.0\animais.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\animais\obj\Debug\net7.0\animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\animais\obj\Debug\net7.0\animais.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\animais\obj\Debug\net7.0\animais.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\animais\obj\Debug\net7.0\animais.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\animais\obj\Debug\net7.0\animais.dll
+C:\Users\LAB4\Desktop\animais\obj\Debug\net7.0\refint\animais.dll
+C:\Users\LAB4\Desktop\animais\obj\Debug\net7.0\animais.pdb
+C:\Users\LAB4\Desktop\animais\obj\Debug\net7.0\animais.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\animais\obj\Debug\net7.0\ref\animais.dll
